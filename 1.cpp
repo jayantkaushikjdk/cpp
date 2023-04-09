@@ -1,5 +1,8 @@
 #include<iostream>
 using namespace std;
 int main(){
-    cout<< "namaste duniya";
-}
+    int a=8;
+    int b=6;
+    cout<<(a==b) <<endl;
+    cout<<a+5;
+} 
